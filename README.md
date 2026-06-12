@@ -30,4 +30,13 @@ Control panel restriction policy: Prevents standard users from changing system s
 10. Delegated permission to Helpdesk to change passwords of all users in Corporate-HQ, applying the principle of least privilege. Helpdesk can only reset passwords and cannot perform any other administrative actions.
 <img width="1078" height="840" alt="image" src="https://github.com/user-attachments/assets/9d721a85-1814-4706-b267-bbc539819e18" />
 <img width="1511" height="996" alt="image" src="https://github.com/user-attachments/assets/4d174173-cff2-4fcc-a2cf-bcbb9c22857b" />
-
+Skills Demonstrated: 
+- Active Directory administration and domain controller deployment
+- PowerShell scripting and automation
+- Organisational Unit (OU) design and configuration
+- User and group provisioning
+- Group Policy Object (GPO) creation and configuration
+- Fine-grained password policy implementation
+- Bulk user provisioning via CSV import
+- AD delegation and least privilege security principles
+- Virtualisation using UTM on Apple Silicon (ARM64)
