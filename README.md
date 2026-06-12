@@ -1,4 +1,4 @@
-# Windows-Active-Directory-Home-Lab-
+# Active Directory Home Lab
 Active Directory home lab on Windows Server 2025 using UTM virtual machine for Apple Silicon (ARM64)
 1. Created Domain “lab.Local” with DNS.
 <img width="1900" height="254" alt="image" src="https://github.com/user-attachments/assets/e39b4e7d-7232-4a3c-a800-96bd362f5381" />
